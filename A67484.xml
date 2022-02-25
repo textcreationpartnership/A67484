@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A still and soft voice from the scripture vvitnessing them to be the vvord of God.</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67484</idno>
+            <idno type="STC">Wing W692</idno>
+            <idno type="STC">ESTC R38023</idno>
+            <idno type="EEBO-CITATION">17161960</idno>
+            <idno type="OCLC">ocm 17161960</idno>
+            <idno type="VID">106051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106051)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1624:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A still and soft voice from the scripture vvitnessing them to be the vvord of God.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: by William Walwyn, merchant (there being a minister of the same name)</note>
+                  <note>Reproduction of original in the Union Theological Serminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience.</term>
+               <term>Freedom of religion.</term>
+               <term>Religious tolerance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106051:1" rendition="simple:additions"/>
+            <pb facs="tcp:106051:1" rendition="simple:additions"/>
+            <p>A STILL AND SOFT VOICE From the Scriptures, VVitneſſing them to be the VVord of God.</p>
+            <q>
+               <bibl>
+                  <hi>1 Kings. 19.11.12.</hi>
+               </bibl>
+               <p>And he ſaid (to Eliah) come out and ſtand upon the Mount before the Lord. And behold the Lord went by, and a mighty ſtrong wind rent the Mountaines and brake the Rocks before the Lord, but the Lord was not in the wind, and after the wind came an Earth-quake, but the Lord was not in the Earth-quake.</p>
+               <p>And after the Earth-quake came fire, but the Lord was not in the fire, and after the fire came a ſtill and ſoft voice. And when Eliah heard it, he covered his face with a Mantle, &amp;c.</p>
+            </q>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106051:2"/>
+            <pb n="3" facs="tcp:106051:2"/>
+            <head>A Still and Soft Voice.</head>
+            <p>
+               <seg rend="decorInit">A</seg> She who is arrived to the full age of a man, and ſeriouſly conſiders, the ſeverall paſſages and progreſſe of his fore paſt life: what he did or underſtood, when he was a child, a youth, a young man; a meere man, or before he came to be adviſed, and to conſi<g ref="char:EOLhyphen"/>der all things by <hi>true rules</hi> of reaſon: is beſt able to deale with every one in every age and condition, to ſhew them their vanity, ignorance and miſtakings: and to point them out the path of vertue. Experience making the beſt Schoole-maſter in things naturall and morall.</p>
+            <p>Even ſo is it in Religion, he only can beſt judge, adviſe and counſell others, who hath obſerved and <hi>moſt ſeriouſly conſidered</hi> the ſeverall paſſages and pro<g ref="char:EOLhyphen"/>greſſe of his owne knowledge in things divine: yet who are ſo forward to judge and comptrole there<g ref="char:EOLhyphen"/>in, as meere ſmatterers and ſuch as have leaſt experi<g ref="char:EOLhyphen"/>ence.</p>
+            <p>I ſuppoſe it will be acknowledged, by ail experi<g ref="char:EOLhyphen"/>enced Chriſtians, that the greateſt number of men and women in the world, are drawne into the conſi<g ref="char:EOLhyphen"/>deration and Practice of Religion, by education, and cuſtome of the place where they are bred: and that
+<pb n="4" facs="tcp:106051:3"/>many never have any other foundation, nor motive to continue therein, then the reputation it brings them: all other religions or wayes of worſhip being diſcountenanced and out of credit ſuch as theſe are Champions for whats in faſhion: ever running with the ſtreame, and crying downe all contrary minded; <hi>Vox populi, Vox dei,</hi> the Major voice (then which nothing is more uncertain in Religion) is to theſe as the voice of God: and when they are zealous for <hi>vulgar opinions</hi> they thinke they are zea<g ref="char:EOLhyphen"/>lous for God and his truth: when they revile, abuſe, and hale men before the Magiſtrates, and even kill and deſtroy them, they think they doe God good ſervice: being zealous of the <hi>traditions of the times:</hi> for though truth ſhould be publickly profeſſed: yet to ſuch as hold it only by education and cuſtome: it is in them traditionall, and they are not truly reli<g ref="char:EOLhyphen"/>gious; but meere morrall chriſtians: utter<g ref="char:EOLhyphen"/>ly ignorrant of the cleare Heavenly brightneſſe, in<g ref="char:EOLhyphen"/>herent, in pure and undefiled Religion.</p>
+            <p>But though it be evident, that there are too too many, who hold their religion, on this fraile foun<g ref="char:EOLhyphen"/>dation, yet it is very comfortable to be<g ref="char:EOLhyphen"/>hold, the ſincerity of multitudes of good people in our dayes: who; not content to poſſeſſe their knowledg in a traditionall way: doe accuſtome them<g ref="char:EOLhyphen"/>ſelves to try and examine all things.</p>
+            <p>Yet as it is a hard thing unto men, bred ſo vainly as moſt men are, to keepe the golden meane, in naturall or morrall Reformations: ſo is it difficult to preſerve from extreames, in matters of religion, the reaſon is, becauſe in our tryalls and examinati<g ref="char:EOLhyphen"/>ons
+<pb n="5" facs="tcp:106051:3"/>we have not that heedfull care, which is abſo<g ref="char:EOLhyphen"/>lutely neceſſary, to free our Judgments from <hi>abſur<g ref="char:EOLhyphen"/>dityes or improper things:</hi> common and uvlgar argu<g ref="char:EOLhyphen"/>ments catching faſt hold upon us too ſuddenly; and ſo we engage over violently, averring and main<g ref="char:EOLhyphen"/>tayning without giving due time to our conſide<g ref="char:EOLhyphen"/>ration to worke and debate it ſelfe into neceſſary concluſions.</p>
+            <p>The firſt ſort of theſe religious perſons: are dead<g ref="char:EOLhyphen"/>ly enemies to examination and tryall of things, we (ſay they) are not fit to Judge or theſe matters <hi>ne ſutor ultra crepidam,</hi> is commonly in their mouthes: <hi>the Cobler ought not to goe beyond his laſt:</hi> what are the lear<g ref="char:EOLhyphen"/>ned for, if theſe high things fall within the compaſſe of our capacities, why chuſe wee wiſe and juditi<g ref="char:EOLhyphen"/>ous men, more able then our ſelves, but to reforme, and ſettle Religion: if you draw them into any diſ<g ref="char:EOLhyphen"/>courſe, and endeavour to ſhew them their weakeneſſe, their only aime is how to entrap you, in your words, and if it be poſſible to make you obnoctious to authority.</p>
+            <p>If their ignorance and ſuperſtition appeare ſo groſſe and palpable, that (in loving tearmes, and for their better information,) you demand how they come to know there is a God, or that the ſcriptures are the word of God: their common anſwer is, <hi>doe you deny them: it ſeemes you doe? otherwiſe why doe you aske ſuch queſtions?</hi> if they offer to proove by ſome common received argument: and you ſhew the weakeneſſe thereof: they'le goe nigh to tell you to your face, and report for certaine behind your back, to all they know, or can know, that you are an Athieſt, that you deny there is a God, and deny the
+<pb n="6" facs="tcp:106051:4"/>Scriptures to be the word of God: nor doe they hate any ſort of men ſo much, as thoſe who are <hi>in<g ref="char:EOLhyphen"/>quiſitive after knowledge;</hi> judgeing them as buſie bo<g ref="char:EOLhyphen"/>dyes, men of unquiet ſpirits, that know not when they are well, or when they have ſufficient: for their parts, they are conſtant in one, for the ſubſtance; their principles are not of yeſterday but of many yeares ſtanding: and the moſt learned and wiſe are of their way, and why ſhould not others be as well content as they, is it fit (ſay they) that every one ſhould follw his owne underſtanding in the wor<g ref="char:EOLhyphen"/>ſhip of God, wee ſee what comes of it; when men once forſake the beaten Road (the Kings high way) in Religion, into how many by-pathes, doe they runne, nay, whether would they not runne, if our care were not to hedg and keepe them in.</p>
+            <p>And thus ignorance becomes many times Judge of knowledge: and the moſt groſſe and ſlothfull; comptroler of the moſt active in Religion.</p>
+            <p>Of this ſort of men there are very many; and they are made very much uſe of by worldly Pollititians, who have found by conſtant experience, that ſu<g ref="char:EOLhyphen"/>perstition is the eaſieſt meanes to lead a multitude, this way, or that way as their occaſions and purpoſes may require, and on the contrary, that true Reli<g ref="char:EOLhyphen"/>gion is in it ſelfe as oppſite to their unjuſt ends, as it is to ſuperſtition and therefore if they obſerve any man who out of the principles of true Religion oppoſeth their ends; at him they let looſe theſe ignor<g ref="char:EOLhyphen"/>ant and morrall chriſtians, furniſh them with reproach<g ref="char:EOLhyphen"/>full tales, and falſhoods, againſt him, call him A<g ref="char:EOLhyphen"/>thieſt Infidell, Heritick, Sciſmatick, any thing: which is as eagerly effected, as wickedly deviſed: and how to ſtop theſe mens mouthes is in my apprehention
+<pb n="7" facs="tcp:106051:4"/>no leſſe a worke then to make white a Blackamore;</p>
+            <p>Thoſe others who are ſtartled in their conſcienc<g ref="char:EOLhyphen"/>es, and rouſed by <hi>the word of God,</hi> out of this world<g ref="char:EOLhyphen"/>ly way of religion, or running with the ſtreame, it is a hard matter to hold them <hi>to a due pace, in the per<g ref="char:EOLhyphen"/>ſute of neceſſary knowledge</hi> or to keepe them <hi>to a prop<g ref="char:EOLhyphen"/>per Method,</hi> or to obtaine this of them, <hi>that they re<g ref="char:EOLhyphen"/>ceive nothing as a truth, which they ſee admiteth of an obſurdity.</hi>
+            </p>
+            <p>But having broke looſe from the bands <hi>of educa<g ref="char:EOLhyphen"/>ted and cuſtomary religion,</hi> through neceſſity of con<g ref="char:EOLhyphen"/>ſcience, and being <hi>anew to begin,</hi> they are apt <hi>haſtily to take in,</hi> that which is firſt offered <hi>with any reſem<g ref="char:EOLhyphen"/>blance of truth,</hi> and ſo in an inſtant, fall into new entanglements.</p>
+            <p>For if haſt, make waſt in any thing, it is in pur<g ref="char:EOLhyphen"/>ſute after knowledge: and though every conſiderate mans experience findeth this a truth: though it be confeſt by all, that there is nothing of greater con<g ref="char:EOLhyphen"/>cernment to man, then <hi>the truth of his Divine know<g ref="char:EOLhyphen"/>ledge:</hi> though nothing doth more diſturb the minde of man, <hi>then error and miſtakeing in religion.</hi>
+            </p>
+            <p>Yet is there not any thing wherein men: proceed more irregularly, or more impatiently: either they are over raſh and ſudden or over fearfull, and irre<g ref="char:EOLhyphen"/>ſolute: they approach all diſcourſe with prejudice, and a mind diſtempered, ſearching nothing through<g ref="char:EOLhyphen"/>ly or orderly, but content themſelves with an o<g ref="char:EOLhyphen"/>verly examination, and (in my apprehention) are not so difingenious in any thing, as in religion: willingly reſigning and forfeiting their underſtandings, and Judgments, at a cheap rate then Eſau did his Birth-right: and ſo continue <hi>very long</hi> (not truly religious, <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:106051:5"/>but) ſuperſtitious men, alwayes amazed: neither remembring what themſelves or others ſpeake: he that once oppoſeth them, hath a Wolfe by the eares, hee can neither ſpeake, nor hold his peace, without damage, they take allthings in the worſt ſence ſigh, lament, pitty, or cenſure, all that ſutes not with their opinion or practice: and talk or report of, any man, any thing that comes in their imaginations; thoſe that come behind them in knowledge; are car<g ref="char:EOLhyphen"/>nall: thoſe before them deſperate And therefore it may be very profitable; that the differences betwene true Religion and ſuperſtition, be made knowne <hi>to theſe times,</hi> more fully than it is, the one being com<g ref="char:EOLhyphen"/>monly taken for the other.</p>
+            <p>Now both are beſt knowne by their effects: for true Religion ſetleth a man in peace and reſt: makes him like unto the Angels, alwayes praiſing God and ſay<g ref="char:EOLhyphen"/>ing Glory to God on High, in earth peace, Good will towards men, it is ever provided with good in<g ref="char:EOLhyphen"/>tentions and good deſires, maketh the beſt conſtructi<g ref="char:EOLhyphen"/>on in doubtfull caſes, ſee how true Chriſtian love is deſcribed by the Apoſtle in the 13. to the Corinths. and that is the <hi>true</hi> Religious mans Character.</p>
+            <p>On the contrary, ſuperſtition troubleth and makes a man wilde, a ſuperſtitious man ſuffereth neither God nor man to live in peace, (as one well obſerveth from experience) he aprehendeth God, as one anx<g ref="char:EOLhyphen"/>ious, ſpitefull, hardly contented eaſily moved, with difficulty appeaſed, examining our actions after the human faſhion of a ſevere Judge, that watcheth our ſteps, which hee prooveth true by his manner of ſer<g ref="char:EOLhyphen"/>ving him. hee trembleth for feare is never ſecure, fearing he never doth well, and that he hath left
+<pb n="9" facs="tcp:106051:5"/>ſome thing undone, by omiſſion whereof, all is worth no<g ref="char:EOLhyphen"/>thing that he hath done.</p>
+            <p>But generally now a dayes, (contrary to former tymes) the ſuperſtitious mans devotion coſts him litle, he hath ſomuch worldly wit in his zeale, as to ſave his purſe, hot and fiery againſt hereſie and blasphemy, (which are titles he freely be<g ref="char:EOLhyphen"/>ſtowes on all opinions, contrary to his own, true or falſe), he will courſe his poor neighbour out of all he hath, yea out of the Nation, if he can not courſe him <hi>into his opinion:</hi> and all upon pretence of doing God ſervice and for the good of his ſoule.</p>
+            <p>As for his body, or eſtate, thats no part of his care, hee is not ſo haſty to runn into his poore neighbours houſe, to ſee what is wanting there, hee may ly upon a bed, or no bed, co<g ref="char:EOLhyphen"/>vering or no covering, be ſtarved through cold and hunger. over burthened with labour, be ſick, lame or diſeaſed: and all this troubles not the ſuperſtitious mans (nor the morall Chriſtians) Conſcience: he may through want and neceſſity goe into what priſon he will, and ly and rott and starve there: and theſe kind of Religious people are not halfe ſo much moved at it, as if he goe to another Church or con<g ref="char:EOLhyphen"/>gregation, then what they approove: if hee doe ſo, upſtarts their zeale; and after him, watch, ſpy, accuſe and in<g ref="char:EOLhyphen"/>forme: and all for the good of his ſoule: and for the Glory of God.</p>
+            <p>One would not think it were poſſible man could be ſo blind, or ſo inconſiderate as to immagin, that God would be thus mocked, thus madly ſerved, contrary to the whole te<g ref="char:EOLhyphen"/>nor of the Scriptures, but ſuch are the effects of <hi>educated, cuſ<g ref="char:EOLhyphen"/>tomary or superſtitious</hi> Religion.</p>
+            <p>Whiſt the effects of pure and undefiled Religion, are ano<g ref="char:EOLhyphen"/>ther thing: as Feeding the hungry, Cloathing the naked, Vi<g ref="char:EOLhyphen"/>ſiting the ſick, the Fatherleſſe, the Widdowes and Priſo<g ref="char:EOLhyphen"/>ners:
+<pb n="10" facs="tcp:106051:6"/>and in all things <hi>walking as becometh the Goſpell of Chriſt:</hi> it will empty the fulleſt Baggs: and pluck downe the high<g ref="char:EOLhyphen"/>eſt plumes.</p>
+            <p>And who ever ſerveth God ſincerely in this Religion, ſhall be knowne by his fruites: his light ſhall ſo ſhine before men, that they ſeeing <hi>his good Workes,</hi> ſhall Glorify our Fa<g ref="char:EOLhyphen"/>ther which is in heaven.</p>
+            <p>But of theſe there are few to bee found ; and as few that truly labour, to reclaime thoſe many thouſands of miſerable people that are drencht all their life long in groſſe ignorance, and notorious loathſome wickedneſſe: <hi>Yet there is joy in hea<g ref="char:EOLhyphen"/>ven over one ſinner that repenteth, more then for ninety nine juſt perſons that need no repentance:</hi> Why talke wee ſo much of Chriſtianity, holineſſe, and ſaintſhip, whilſt wee neglect the loſt ſheep, or the recovery of our brethren from thoſe <hi>Errors</hi> of their wayes.</p>
+            <p>The plain truth is, this groſſe neglect of known duty here<g ref="char:EOLhyphen"/>in, and the generall eagerneſſe in the leſſe neceſſary parts of zeale and devotion, manifeſteth <hi>the world</hi> is not ſubdued; that there is little ſelfe-deniall, little of pure and undefiled Reli<g ref="char:EOLhyphen"/>gion as yet in the world: men content themſelves with forms of godlineſſe, but are regardleſſe of the power thereof.</p>
+            <p>And therefore I have been the leſſe troubled in my ſelfe; for the hard meaſure I have found: amidſt ſo great a mixture of worldlineſſe, ignorance, and ſuperſtitious zeale, why ſhould one looke for much ingenuity, theſe times have but caſt an eye towards the <hi>materiall</hi> parts of true Chriſtianity: It is not yet knowne what it is, in its excellency, the end and iſſue thereof, is too good to bee deſerved, or diſcerned, by a people that are not yet broad awake, they ſtrike him that brings them more light; then they can well endure.</p>
+            <p>All the evill and reproach I have ſuffered, hath beene by occaſion of my forwardneſſe to do others good: my freeneſſe
+<pb n="11" facs="tcp:106051:6"/>in diſcourſe, though harmeleſſe in it ſelfe, and intended for good, hath been perverted, miſconſtrued, and made uſe of to my prejudice.</p>
+            <p>I accompt nothing more vain, then to diſcourſe meerly for diſcourſe ſake, nay, it is painfull and irckſome to me, to heare a diſcourſe that is not really neceſſary and uſefull, nor doe I know, that I have ever purpoſely ſet my ſelf to debate any ſe<g ref="char:EOLhyphen"/>rious matter, ſlightly or careleſſely, though cheerefully.</p>
+            <p>And my manner is, what ever is in debate, to ſearch it tho<g ref="char:EOLhyphen"/>rowly, being of an opinion, that, what is really true, ſtands the firmer, for being ſhaken: like a houſe that is built upon a rock.</p>
+            <p>I have been much troubled, to obſerve men earneſtly en<g ref="char:EOLhyphen"/>gage to maintaine the ſtrongeſt maximes and principle by weak arguments; the weakneſſe whereof, I have endevoured to manifeſt, that I might diſcover the weakneſſe of ſuch pra<g ref="char:EOLhyphen"/>ctiſes, and to make it evident, that fundamentall truthes ſup<g ref="char:EOLhyphen"/>port all things, and need no ſupporters: <hi>Thou beareſt not the root, but the root, thee.</hi>
+            </p>
+            <p>But this my free dealing (with uncharitable or ſuperſtiti<g ref="char:EOLhyphen"/>ous people) hath found this evill returne, they have reported me, to deny that there is a God, when I have only denyed the validity of a weak argument, produced to prove that there is a God; it being too too common to inſiſt upon meere notio<g ref="char:EOLhyphen"/>nall indigeſted arguments: ſo alſo have I been moſt unchari<g ref="char:EOLhyphen"/>tably ſlandered to deny the Scriptures to bee the word of God, becauſe I have oppoſed inſufficient arguments produ<g ref="char:EOLhyphen"/>ced to prove them ſuch: and becauſe at the ſame time I have refuſed to ſhew the grounds inducing me to beleeve them.</p>
+            <p>Now it hath been my lot to be drawne into diſcourſes of this nature for the moſt part by timerous, ſcrupulous, people, in whom, I have diſcouvered ſo much impatience, and diſ<g ref="char:EOLhyphen"/>cerned content, at the ſhaking of their arguments, that I have not diſ<g ref="char:EOLhyphen"/>cerned any reaſon to open my ſelfe ac that time; yet I never
+<pb n="12" facs="tcp:106051:7"/>parted with any of them, but I alwayes proſeſſed that I did believe, both that there is a God, &amp; that the Scriptures are the Word of God, though I judged their grounds not good; and withall, that if they would be ſo ingenious as to acknowledge the weakneſſe of their arguments, I would then ſhew them my ground of faith; or it at any time they ſtood in need, I would not be wanting to the uttermoſt of my power to ſup<g ref="char:EOLhyphen"/>ply them, but I have ſeldome found any, who in the heat of conteſt and proſecudon of diſpute, have been qualified, to receive, what I had to ſay, touching this matter, their ap<g ref="char:EOLhyphen"/>prehenſion and mine being at too great a diſtance there<g ref="char:EOLhyphen"/>in.</p>
+            <p>But I bleſſe God it is not ſo ill with me, as ſome bad mind<g ref="char:EOLhyphen"/>ed men deſire, nor as ſome weak and ſcrupulous men imagin.</p>
+            <p>And there are ſome ingenious men, with whom I have dai<g ref="char:EOLhyphen"/>ly converſt, that know I doe acknowledge and beleeve there is a God. and that the Scriptures are the Word of God.</p>
+            <p>Yet the teſtimony of men in this caſe to mee is little; my owne conſcience being as a thouſand witneſſes.</p>
+            <p>That there is a God: I did never beleeve through any con<g ref="char:EOLhyphen"/>vincing power I have ever diſcerned by my utmoſt conſide<g ref="char:EOLhyphen"/>ration of any natural argument or reaſon I ever heard or read: But it is <hi>an unexpreſsible power,</hi> that in a forcible manner con<g ref="char:EOLhyphen"/>ſtraines my underſtanding to acknowledge and beleeve that there is a God, and ſo to beleeve that I am fully perſwaded there is no <hi>conſider at man</hi> in the world but doth believe there is a God.</p>
+            <p>And, <hi>That the. Scriptures are the Word of God,</hi> I ſhall clearly make the ſame profeſſion, That I have not beleeved them ſo to be, by force of any argument I have ever heard or read, I rather find by experience, moſt, if not all arguments, produ<g ref="char:EOLhyphen"/>ced <hi>in prejudice</hi> thereof: (Art, argument, and compulſive
+<pb n="13" facs="tcp:106051:7"/>power, in this caſe holding reſemblance with the mighty ſtrong <hi>wind,</hi> the <hi>Earth quake</hi> and fire, diſtracting, terrifying and ſcorching the minds of men) but I beleeve them through an irreſiſtible perſwafive power that from within them (like unto the ſoft ſtill voyce wherein God was) hath pierced my judgment and affection in ſuch ſort, that with aboundance of joy and gladneſſe I beleeve, and in beleeving have that <hi>Peace</hi> which paſſeth all utterance or expreſſion; and which hath ap<g ref="char:EOLhyphen"/>peared unto me after ſo many ſad conflicts of adiſtracted conſcience, and wounded ſpirit, that it is to me a heaven up<g ref="char:EOLhyphen"/>on earth: It being now long ſince, I bleſſe God, that I can truly ſay, <hi>My heart is fixed, O God, my heart is fixed, I will ſing and give praiſe:</hi> In other reſpects, I conceive the moſt holy upon earth, if they give impartiall eare to this voyce, will finde no cauſe to boaſt or to finde fault with others, but as <hi>Eliah</hi> to cover their faces with a mantle.</p>
+            <p>And truly were it not that too too many <hi>pretenders to Re<g ref="char:EOLhyphen"/>ligion,</hi> are over apt to receive falſe reports (which is a moſt uncharitable diſpoſition) and over-prone to make the worſt conſtruction, which is altogether unchriſtian, it had beene impoſſible for any to have abuſed me in theſe or any other reſpects.</p>
+            <p>But it will be neefull for all ſuch, ſeriouſly to lay to heart, <hi>that they ought to do as they would he done unto in all things that he who ſeemeth to bee religious and bridles not his tongue, that mans religion is vaine.</hi>
+            </p>
+            <p>That he who boaſteth <hi>to beleeve a God,</hi> and <hi>the Scriptures to be the Word of God,</hi> and glorieth in his ability of expoſition thereof: yet applieth it to the diſcovery of a mote in his bro<g ref="char:EOLhyphen"/>thers eye, rather then a became in his own: he whoſe expreſ<g ref="char:EOLhyphen"/>ſions and actions do demonſtrate him to ſay within himſelfe, <hi>Lord I thank thee I am not as other men, extortioners, unjuſt adul<g ref="char:EOLhyphen"/>terers, nor as this Publican:</hi> This man whoever he be, is not
+<pb n="14" facs="tcp:106051:8"/>yet got through the leſſon of the Phariſtes; <hi>that were wiſe in their owne eyes, and deſpiſed others.</hi>
+            </p>
+            <p>But it would be much more profitable to ſociety and good neighbourhood that there were a more exact ac<g ref="char:EOLhyphen"/>compt taken by every man of his owne wayes; it is verily thought moſt men neede not goe abroad for want of work, if either pride, covetouſneſle, backbiting, unreaſonable jealoſy, vanity of minde, dotage upon ſuperfluities? with hard heart<g ref="char:EOLhyphen"/>edneſſe to the poore: were thought worthy of Reformation.</p>
+            <p>To be zealous <hi>in lipp ſervice,</hi> or to expreſſe our devotion, <hi>in cenſuring of others,</hi> yeelds neither honour to God, nor good to man.</p>
+            <p>Who were more blinde, then thoſe who ſaid <hi>are wee blind, alſo?</hi> the Angell of the Church of Laodicea, boaſted that he was rich, and increaſed with goods and <hi>had neede of nothing:</hi> and knew not that he was <hi>wretched, and miſſerable and poor and blind and naked.</hi>
+            </p>
+            <p>Wee have many now a dayes, who are <hi>doubly unjuſt</hi> and thinke not of it: they are partiall and favourable in examin<g ref="char:EOLhyphen"/>ing and corecting of themſelves: and ſevere towards others, when as they ought to be ſevere towards themſelves: and favourable towards others.</p>
+            <p>And it is a fault not eaſily mended: it requires agreater power of true religion to doe it, then the moſt have as yet attained, if one may judge by the Fruites: and therefore it will be good for every one to neglect that which is behinde, and to preſſe forward to the marke, for the price of the high Call<g ref="char:EOLhyphen"/>ing of God which is in Jeſus Chriſt: either renounce the Name, or let your practice demonſtrate, that you are Chriſtian.</p>
+            <p>Hee who greedily receiveth a hard report of his neigh<g ref="char:EOLhyphen"/>bour, is not provided of charitable and loving thoughts as he ought; and if he report any evill, before he be certaine of the
+<pb n="15" facs="tcp:106051:8"/>truth thereof, hee is a sladerer; and when hee is certaine it is true, he report it with delight, it argues him of malice.</p>
+            <p>He who is glad of his neighbours defamation, would not be ſory at his ruine: a ſlanderer would be a murderer but for feare: and therefore, every honeſt vertuous religious man ſhould ſhun a ſlanderer, as he would ſhun a Serpent.</p>
+            <p>And thus having ſaid enough to free my ſelf from this ſlan<g ref="char:EOLhyphen"/>der (if religious people will but ſtudy ingenuity, which hath Been too much wanting amongſt them) the whole courſe of my actions, writings and diſcourſes, evidencing the contrary to all that throughly know me: and this my profeſſion being added to ſatisfie thoſe that know me but by hearſay: <hi>I have done:</hi> judging it a ſmall thing to be judged of any, or of mans judgement: <hi>Whoart thou that judgeſt another mans ſervant, t o his owne maſter, hee ſtandeth or falleth.</hi>
+            </p>
+            <p>The liberty of my native Country, and the freedome of all conſciencious people hath been, and ſtill is pretious in my eſteeme: nor ſhall I be diſcouraged (by any the unworthy ſlanders caſt upon me) from a juſt and due proſecution of both, according to my place and calling: I ſhall make <hi>bold to deceive the deceiver and his inſtruments therein:</hi> I ſhould be glad to ſee the Educated and cuſtomary moral Chriſtians become Chriſtians indeed, and ceaſe to perſecute: I ſhould exceedingly rejoyce to ſee the ſuperſtirious, become really religious, and to ſee babes; become ſtrong men in Chriſt, and all bend their endevours to deliver the captive, and ſet the oppreſſed free, to reclaime the vicious, and to labour the sa<g ref="char:EOLhyphen"/>ving of the loſt ſheep of the houſe of <hi>England:</hi> To ſee Cha<g ref="char:EOLhyphen"/>rity abound, and all envy, malice, and worldly mindedneſſe to ceaſe for ever, and not to be named amongſt us, as becom<g ref="char:EOLhyphen"/>meth <hi>Saints indeed:</hi> to ſee all men ingenious, loving, friend<g ref="char:EOLhyphen"/>ly and tender-hearted one towards another: but I muſt nei<g ref="char:EOLhyphen"/>ther be ſilent, nor ſlothfull till I ſee it, nor ſorow as one with<g ref="char:EOLhyphen"/>out
+<pb n="16" facs="tcp:106051:9"/>out hope of ſeeing it: but through evill report, and good re<g ref="char:EOLhyphen"/>port, do my duty? patiently expecting a good iſſue? laboring in all eſtates to be content; knowing there is no temptation hath taken hold upon others, but may befall unto me. In the mean time, knowing all terreſtriall things to be but vain and tranſitory, my chiefeſt comfort is, that I deſire to know <hi>No<g ref="char:EOLhyphen"/>thing ſave Jeſus Chriſt and him crucified:</hi> accounting all things as loſſe and dung, that I may be found in Chriſt, not having my own righteouſneſſe which is of the Law, but the righte<g ref="char:EOLhyphen"/>ouſneſſe which is of God in him.</p>
+            <p>I have no quarrell to any man, either for unbeleefe or miſ<g ref="char:EOLhyphen"/>beleefe, becauſe I judge no man beleeveth any thing, but what he cannot chooſe but beleeve; it is miſery enough to want the comfort of true beleeving, and I judge the moſt convin<g ref="char:EOLhyphen"/>cing argument that any man can hold forth unto another, to prove himſelfe a true ſincere beleever, is to practiſe to <hi>the uttermost</hi> that which his faith binds him unto: more of the <hi>deeds of Chriſtians,</hi> and fewer of the arguments would doe a great deale more good to the eſtabliſhing of thoſe that ſtag<g ref="char:EOLhyphen"/>ger: It being not the leaves but the fruit that nouriſheth and carrieth the ſeed with it, Shew me thy faith by thy workes; If I have all faith and have not love, I am as ſounding braſſe, or as a tinckling cymball, if faith worke, it workes by love: Let us all therefore hence-forth walk in love, even as Chriſt hath loved, and hath given himſelfe an offering and a ſacri<g ref="char:EOLhyphen"/>fice for us: to whom bee glory and dominion for ever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>By</hi> WILLIAM WALWYN, <hi>Merchant: (there being a Miniſter of the ſame name.)</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106051:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
